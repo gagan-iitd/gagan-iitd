@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gagan 👋</h1>
 
 <p align="center">
-Electrical Engineering @ IIT Delhi | Building an Autonomous Mobile Robot (SLAM) under SURGE
+Electrical Engineering @ IIT Delhi | Building an Autonomous Mobile Robot (SLAM) 
 </p>
 
 ---
@@ -9,19 +9,19 @@ Electrical Engineering @ IIT Delhi | Building an Autonomous Mobile Robot (SLAM) 
 ### 🔧 What I'm working on
 
 - 🤖 **SURGE Research Project** — Building an Autonomous Mobile Robot (AMR) platform with SLAM
-- 🌾 **Project Milley** (Enactus IIT Delhi) — Project Associate on a millet-based cookie social enterprise
+- 🌾 **Design Executive** (SAC IIT Delhi) — Designing for Student Affairs Council IIT Delhi
 - 🎉 **Rendezvous 2026** — Sponsorship & corporate relations for IIT Delhi's cultural festival
 
 ### 🧠 About me
 
 - 🎓 B.Tech Electrical Engineering, IIT Delhi (2nd year)
 - 📍 Based in Delhi, India
-- 💬 Open to collaborating on robotics, automation, and campus-tech projects
+- 💬 Open to collaborating on robotics, automation,designing and campus-tech projects
 
 ### 📫 Reach me
 
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: https://www.linkedin.com/in/gagandeep-singh-6a903139a/
+- Email: gagan.iitd.work@gmail.com
 
 ---
 
